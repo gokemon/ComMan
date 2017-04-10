@@ -1,0 +1,7 @@
+
+https://www.tutorialspoint.com/angular2/angular2_forms.htm
+
+Got to build the home page to load the footer from a subfile, so we don'the
+
+
+http://fontawesome.io/icons/
